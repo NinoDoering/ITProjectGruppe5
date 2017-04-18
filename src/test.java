@@ -11,8 +11,24 @@ public class test {
 		System.out.println("hallo ich bins Tony");
 
 		System.out.println("Hallo");
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/WahidVanaki
 		
 		int a = 21;
+<<<<<<< HEAD
+=======
+		
+		int t = 22;
+=======
+>>>>>>> refs/remotes/origin/master
+
+String aa = "Wahid";
+=======
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/WahidVanaki
 	}
 
 }
