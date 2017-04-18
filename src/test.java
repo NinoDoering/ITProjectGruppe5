@@ -11,6 +11,8 @@ public class test {
 		System.out.println("hallo ich bins Tony");
 
 		System.out.println("Hallo");
+		
+		int a = 21;
 	}
 
 }
