@@ -12,6 +12,7 @@ public class test {
 
 		System.out.println("Hallo");
 <<<<<<< HEAD
+<<<<<<< HEAD
 		
 		int a = 21;
 		
@@ -20,6 +21,8 @@ public class test {
 >>>>>>> refs/remotes/origin/master
 
 String aa = "Wahid";
+=======
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
