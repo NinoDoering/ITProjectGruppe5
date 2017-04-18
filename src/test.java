@@ -11,10 +11,15 @@ public class test {
 		System.out.println("hallo ich bins Tony");
 
 		System.out.println("Hallo");
+<<<<<<< HEAD
 		
 		int a = 21;
 		
 		int t = 22;
+=======
+>>>>>>> refs/remotes/origin/master
+
+String aa = "Wahid";
 	}
 
 }
