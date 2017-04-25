@@ -12,9 +12,14 @@ public class test {
 
 		System.out.println("Hallo");
 <<<<<<< HEAD
+=======
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/WahidVanaki
 		
 		int a = 21;
+<<<<<<< HEAD
+=======
 		
 		int t = 22;
 =======
@@ -23,6 +28,7 @@ public class test {
 String aa = "Wahid";
 =======
 >>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/WahidVanaki
 	}
 
 }
